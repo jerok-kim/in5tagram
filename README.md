@@ -12,7 +12,7 @@
 
 ## 3. 프로젝트 설명 (구현한 기능 및 사진 등)
 
-<center><img src="./images/abc.svg" width="100%" height="100%"></center>
+<center><img src="./images/abc.svg" width="100px" height="100px"></center>
 <p>in5tagram을 만들어본다.</p>
 <p>좋아요 / 댓글/ 구독 / 알람 기능을 만든다.</p>
 
